@@ -23,7 +23,7 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 ## 📂 THE DIRECTORY (Curriculum)
 > 🟢 *Accessing modules... You can explore these directories as they are built.*
 
-### 💾 [Phase 00]: System Initialization
+<!-- ### 💾 [Phase 00]: System Initialization
 * 📁 [`00_Installation_and_Setup/`](./00_chapter) 
   * *Start here!—head into this folder to learn how to flash MicroPython to the board and configure Thonny.*
 
@@ -44,7 +44,7 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 
 ### 🚀 [Phase 04]: Cyber Projects
 * 📁 `Project_01_Security_System/` - *(Coming Soon)*
-* 📁 `Project_02_Cyber_Weather_Station/` - *(Coming Soon)*
+* 📁 `Project_02_Cyber_Weather_Station/` - *(Coming Soon)* -->
 
 ---
 
