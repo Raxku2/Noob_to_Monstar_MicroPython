@@ -23,16 +23,19 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 ## 📂 THE DIRECTORY (Curriculum)
 > 🟢 *Accessing modules... You can explore these directories as they are built.*
 
-<!-- ### 💾 [Phase 00]: System Initialization
-* 📁 [`00_Installation_and_Setup/`](./00_chapter) 
+### 💾 [Phase 00]: System Initialization
+* 📁 [`00_Installation_and_Setup/`](./00_chapter/) 
   * *Start here!—head into this folder to learn how to flash MicroPython to the board and configure Thonny.*
+* 📁 [`00_Practice_First_Run)/`](./00_Practice/) - *connecting your IDE to the flashed ESP8266.*
 
 ### 🧠 [Phase 01]: The Core Matrix (Programming Basics)
-* 📁 `01_Variables_and_DataTypes/`
-* 📁 `02_Control_Flow_Logic/` - *Loops, conditionals, routing the data.*
-* 📁 `03_Functions_and_Classes/` - *Clean, modular, object-oriented MicroPython.*
+* 📁 [`01_Variables_and_DataTypes/`](./01_Chapter/) - *Integer, Float, String, List, Dict.*
+* 📁 [`02_Data_Structures_&_Manipulation/`](./02_Chapter/) - *List & Dict Methods.*
+* 📁 [`03_Conditional_Statements`](./03_Chapter/) - *Conditional Operators and if-else.*
+* 📁 [`04_Loops/`](./04_Chapter/) - *MicroPython Loops.*
+* 📁 [`01_Practice_Logic_&_Loop`](./01_Practice/) - *.Testing computational logic, control flows, and algorithmic endurance*
 
-### 🔌 [Phase 02]: Hardware Hacking
+<!-- ### 🔌 [Phase 02]: Hardware Hacking
 * 📁 `04_GPIO_Control/` - *Blinking the mainframe (LEDs & Buttons).*
 * 📁 `05_Logic_Gates/` - *AND, OR, NOT. The raw binary logic.*
 * 📁 `06_PWM_Signals/` - *Pulse Width Modulation for servos and fading.*
