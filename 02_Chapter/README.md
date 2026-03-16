@@ -1,8 +1,8 @@
 <h1 align="center">📦 Phase 02: Data Structures & Manipulation 🧬</h1>
 
 <p align="center">
-<a href="#"><img src="[https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square&logo=python&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Language-MicroPython-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite)" alt="MicroPython Badge"></a>
-<a href="#"><img src="[https://img.shields.io/badge/Concept-Data_Structures-5C5C5C?style=flat-square&logo=matrix&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Concept-Data_Structures-5C5C5C%3Fstyle%3Dflat-square%26logo%3Dmatrix%26logoColor%3Dwhite)" alt="Data Structures Badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square&logo=python&logoColor=white" alt="MicroPython Badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Concept-Data_Structures-5C5C5C?style=flat-square&logo=matrix&logoColor=white" alt="Data Structures Badge"></a>
 </p>
 
 > *"Memory mapping initialized. Organizing, buffering, and parsing incoming data payloads efficiently to save CPU cycles and prevent RAM fragmentation."*

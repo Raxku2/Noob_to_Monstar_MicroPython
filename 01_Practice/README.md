@@ -1,8 +1,14 @@
 <h1 align="center">⚔️ Phase 01_Practice: The Logic Gauntlet 🧩</h1>
 
 <p align="center">
-<a href="#"><img src="[https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square&logo=python&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Language-MicroPython-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite)" alt="MicroPython Badge"></a>
-<a href="#"><img src="[https://img.shields.io/badge/Status-Challenge_Mode-D22128?style=flat-square&logo=hackthebox&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Status-Challenge_Mode-D22128%3Fstyle%3Dflat-square%26logo%3Dhackthebox%26logoColor%3Dwhite)" alt="Challenge Badge"></a>
+
+<a href="#">
+<img 
+src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square&logo=python&logoColor=white" 
+alt="MicroPython Badge">
+</a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Challenge_Mode-D22128?style=flat-square&logo=hackthebox&logoColor=white" alt="Challenge Badge"></a>
+
 </p>
 
 > *"Simulation active. Testing pure computational logic, control flows, and algorithmic endurance before hardware integration."*
