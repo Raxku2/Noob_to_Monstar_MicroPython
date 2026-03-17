@@ -24,16 +24,17 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 > 🟢 *Accessing modules... You can explore these directories as they are built.*
 
 ### 💾 [Phase 00]: System Initialization
-* 📁 [`00_Installation_and_Setup/`](./00_chapter/) 
+* 📁 [`00_Installation_and_Setup/`](./Chapter_00/) 
   * *Start here!—head into this folder to learn how to flash MicroPython to the board and configure Thonny.*
-* 📁 [`00_Practice_First_Run)/`](./00_Practice/) - *connecting your IDE to the flashed ESP8266.*
+* 📁 [`00_Practice_First_Run/`](./Practice_00/) - *connecting your IDE to the flashed ESP8266.*
 
 ### 🧠 [Phase 01]: The Core Matrix (Programming Basics)
-* 📁 [`01_Variables_and_DataTypes/`](./01_Chapter/) - *Integer, Float, String, List, Dict.*
-* 📁 [`02_Data_Structures_&_Manipulation/`](./02_Chapter/) - *List & Dict Methods.*
-* 📁 [`03_Conditional_Statements`](./03_Chapter/) - *Conditional Operators and if-else.*
-* 📁 [`04_Loops/`](./04_Chapter/) - *MicroPython Loops.*
-* 📁 [`01_Practice_Logic_&_Loop`](./01_Practice/) - *.Testing computational logic, control flows, and algorithmic endurance*
+* 📁 [`01_Variables_and_DataTypes/`](./Chapter_01/) - *Integer, Float, String, List, Dict.*
+* 📁 [`02_Data_Structures_&_Manipulation/`](./Chapter_02/) - *List & Dict Methods.*
+* 📁 [`03_Conditional_Statements`](./Chapter_03/) - *Conditional Operators and if-else.*
+* 📁 [`04_Loops/`](./Chapter_04/) - *MicroPython Loops.*
+* 📁 [`01_Practice_Logic_&_Loop`](./Practice_01/) - *Testing computational logic, control flows, and algorithmic endurance*
+* 📁 [`05_Function_&_Recursion`](./Practice_01/) - *Function call & Declaration, Arguments & Parameters*
 
 <!-- ### 🔌 [Phase 02]: Hardware Hacking
 * 📁 `04_GPIO_Control/` - *Blinking the mainframe (LEDs & Buttons).*
