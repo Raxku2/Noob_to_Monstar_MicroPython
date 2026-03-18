@@ -33,8 +33,9 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 * 📁 [`02_Data_Structures_&_Manipulation/`](./Chapter_02/) - *List & Dict Methods.*
 * 📁 [`03_Conditional_Statements`](./Chapter_03/) - *Conditional Operators and if-else.*
 * 📁 [`04_Loops/`](./Chapter_04/) - *MicroPython Loops.*
-* 📁 [`01_Practice_Logic_&_Loop`](./Practice_01/) - *Testing computational logic, control flows, and algorithmic endurance*
-* 📁 [`05_Function_&_Recursion`](./Practice_01/) - *Function call & Declaration, Arguments & Parameters*
+* 📁 [`01_Practice_Logic_&_Loop`](./Practice_01/) - *Testing computational logic, control flows, and algorithmic endurance.*
+* 📁 [`05_Function_&_Recursion`](./Practice_01/) - *Function call & Declaration, Arguments & Parameters.*
+* 📁 [`02_Practice_Function`](./Practice_02/) - *Hands on architectural toolkit.*
 
 <!-- ### 🔌 [Phase 02]: Hardware Hacking
 * 📁 `04_GPIO_Control/` - *Blinking the mainframe (LEDs & Buttons).*
