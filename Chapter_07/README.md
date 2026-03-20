@@ -1,10 +1,10 @@
-\<h1 align="center"\>🛡️ Phase 07: The "Oops" Catcher (Error Handling) 🪂\</h1\>
+<h1 align="center"\>🛡️ Phase 07: The "Oops" Catcher (Error Handling) 🪂</h1>
 
-\<p align="center"\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white" alt="MicroPython Badge"\>\</a\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Concept-Resilience-5C5C5C?style=flat-square\&logo=matrix\&logoColor=white" alt="Resilience Badge"\>\</a\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Status-Bulletproof-2EA043?style=flat-square\&logo=hackthebox\&logoColor=white" alt="Bulletproof Badge"\>\</a\>
-\</p\>
+<p align="center">
+<a href="\#"><img src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white" alt="MicroPython Badge"></a>
+<a href="\#"><img src="https://img.shields.io/badge/Concept-Resilience-5C5C5C?style=flat-square\&logo=matrix\&logoColor=white" alt="Resilience Badge"></a>
+<a href="\#"><img src="https://img.shields.io/badge/Status-Bulletproof-2EA043?style=flat-square\&logo=hackthebox\&logoColor=white" alt="Bulletproof Badge"></a>
+</p>
 
 > *"An elite computer science student writes code that works perfectly in a sterile lab. You are building hardware that will survive power spikes, dropped Wi-Fi signals, and disconnected wires. Crashing is fine. Staying dead is a failure."*
 

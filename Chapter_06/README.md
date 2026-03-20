@@ -1,9 +1,9 @@
-\<h1 align="center"\>👻 Phase 06: System Override & Memory Hacks 🧠\</h1\>
+<h1 align="center">👻 Phase 06: System Override & Memory Hacks 🧠</h1>
 
-\<p align="center"\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white" alt="MicroPython Badge"\>\</a\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Concept-Architecture-5C5C5C?style=flat-square\&logo=linux\&logoColor=white" alt="Architecture Badge"\>\</a\>
-\</p\>
+<p align="center">
+<a href="\#"><img src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white" alt="MicroPython Badge"></a>
+<a href="\#"><img src="https://img.shields.io/badge/Concept-Architecture-5C5C5C?style=flat-square\&logo=linux\&logoColor=white" alt="Architecture Badge"></a>
+</p>
 
 > *"Desktop computers have Gigabytes of RAM; they forgive sloppy code. Your microcontroller has Kilobytes. If you code like a desktop developer, your hardware will choke and die. This is how you control the machine's brain, manage its memory, and survive."*
 

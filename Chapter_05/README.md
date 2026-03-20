@@ -1,9 +1,9 @@
-\<h1 align="center"\>🛠️ Phase 05: Functions & Recursion 🪃\</h1\>
+<h1 align="center">🛠️ Phase 05: Functions & Recursion 🪃</h1>
 
-\<p align="center"\>
-\<a href="\#"\>\<img src="[https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Language-MicroPython-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite)" alt="MicroPython Badge"\>\</a\>
-\<a href="\#"\>\<img src="[https://img.shields.io/badge/Concept-Modularity-5C5C5C?style=flat-square\&logo=matrix\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Concept-Modularity-5C5C5C%3Fstyle%3Dflat-square%26logo%3Dmatrix%26logoColor%3Dwhite)" alt="Modularity Badge"\>\</a\>
-\</p\>
+<p align="center">
+<a href="\#"><img src="[https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Language-MicroPython-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite)" alt="MicroPython Badge"></a>
+<a href="\#"><img src="[https://img.shields.io/badge/Concept-Modularity-5C5C5C?style=flat-square\&logo=matrix\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Concept-Modularity-5C5C5C%3Fstyle%3Dflat-square%26logo%3Dmatrix%26logoColor%3Dwhite)" alt="Modularity Badge"></a>
+</p>
 
 > *"Subroutines defined. Encapsulating logic into modular, reusable blocks to optimize memory and keep the system architecture clean."*
 
