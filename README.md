@@ -37,6 +37,7 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 * 📁 [`05_Function_&_Recursion`](./Chapter_05/) - *Function call & Declaration, Arguments & Parameters.*
 * 📁 [`02_Practice_Function`](./Practice_02/) - *Hands on architectural toolkit.*
 * 📁 [`06_Memory_Hacks`](./Chapter_06/) - *System Architecture.*
+* 📁 [`07_Error_Handling`](./Chapter_07/) - *Build a system that takes a punch to the face and keeps running.*
 
 <!-- ### 🔌 [Phase 02]: Hardware Hacking
 * 📁 `04_GPIO_Control/` - *Blinking the mainframe (LEDs & Buttons).*
