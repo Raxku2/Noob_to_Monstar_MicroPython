@@ -39,6 +39,8 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 * 📁 [`06_Memory_Hacks`](./Chapter_06/) - *System Architecture.*
 * 📁 [`07_Error_Handling`](./Chapter_07/) - *Build a system that takes a punch to the face and keeps running.*
 
+* 📁 [`01_Project - Tic-Tac-Toi`](./Project_01/) - *This project synthesizes everything you have learned so far.*
+
 <!-- ### 🔌 [Phase 02]: Hardware Hacking
 * 📁 `04_GPIO_Control/` - *Blinking the mainframe (LEDs & Buttons).*
 * 📁 `05_Logic_Gates/` - *AND, OR, NOT. The raw binary logic.*
