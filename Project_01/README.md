@@ -1,10 +1,10 @@
-\<h1 align="center"\>🕹️ Project\_01: The "War Games" Simulation (Tic-Tac-Toe) ✖️⭕\</h1\>
+<h1 align="center">🕹️ Project\_01: The "War Games" Simulation (Tic-Tac-Toe) ✖️⭕</h1>
 
-\<p align="center"\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white" alt="MicroPython Badge"\>\</a\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Concept-Game\_Loop-5C5C5C?style=flat-square\&logo=matrix\&logoColor=white" alt="Game Loop Badge"\>\</a\>
-\<a href="\#"\>\<img src="https://img.shields.io/badge/Status-Playable-2EA043?style=flat-square\&logo=hackthebox\&logoColor=white" alt="Playable Badge"\>\</a\>
-\</p\>
+<p align="center">
+<a href="\#"><img src="https://img.shields.io/badge/Language-MicroPython-3776AB?style=flat-square\&logo=python\&logoColor=white" alt="MicroPython Badge"></a>
+<a href="\#"><img src="https://img.shields.io/badge/Concept-Game\_Loop-5C5C5C?style=flat-square\&logo=matrix\&logoColor=white" alt="Game Loop Badge"></a>
+<a href="\#"><img src="https://img.shields.io/badge/Status-Playable-2EA043?style=flat-square\&logo=hackthebox\&logoColor=white" alt="Playable Badge"></a>
+</p>
 
 > *"Shall we play a game? Before we connect this microcontroller to the global internet, you must prove you can build a closed-loop, interactive system. This is your first real dopamine hit: pure logic turned into a playable simulation."*
 
