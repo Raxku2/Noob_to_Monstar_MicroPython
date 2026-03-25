@@ -41,6 +41,7 @@ Everything here is written, tested, and deployed using the **Thonny IDE**.
 
 * 📁 [`01_Project - Tic-Tac-Toi`](./Project_01/) - *This project synthesizes everything you have learned so far.*
 * 📁 [`02_Project - Student_Management`](./Project_02/) - *This project proves you can manage complex, nested data structures.*
+* 📁 [`03_Project - Temp_Converter`](./Project_03/) - *A high-precision converter that handles the four most common temperature transitions.*
 
 <!-- ### 🔌 [Phase 02]: Hardware Hacking
 * 📁 `04_GPIO_Control/` - *Blinking the mainframe (LEDs & Buttons).*
