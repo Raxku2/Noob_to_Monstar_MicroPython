@@ -122,5 +122,3 @@ Done. Have a great day!
 ```
 
 > 🟢 *Once you see the `Hash of data verified` and `Firmware installation finished!` messages, your ESP8266 is successfully running MicroPython and is ready to be connected to Thonny.*
-
-```
